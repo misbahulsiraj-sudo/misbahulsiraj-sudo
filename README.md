@@ -16,7 +16,9 @@
 * 🐍 Core expertise in **Python** for machine learning workflows & scripting
 * ⚡ Currently exploring: **Deep Learning & Computer Vision**
 * 📫 Reach me at: **misbahulsiraj5@gmail.com**
-
+* 🏆 Certifications:
+✔ Deloitte – Data Analytics Job Simulation (Forage)
+✔ Commonwealth Bank – Data Science Job Simulation (Forage)
 ---
 
 ### 🛠️ Languages & Technologies
