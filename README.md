@@ -18,7 +18,6 @@
 * 📫 Reach me at: **misbahulsiraj5@gmail.com**
 * 🏆 Certifications:
 ✔ Deloitte – Data Analytics Job Simulation (Forage)
-
 ✔ Commonwealth Bank – Data Science Job Simulation (Forage)
 ---
 
